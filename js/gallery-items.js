@@ -1,9 +1,9 @@
 export const galleryItems = [
   {
     preview:
-      '../img/Hokkaido Flower-preview.jpg',
+      '/img/Hokkaido Flower-preview.jpg',
     original:
-      '../img/Hokkaido Flower-original.jpg',
+      '/img/Hokkaido Flower-original.jpg',
     description: 'Hokkaido Flower',
   },
   {
