@@ -15,7 +15,7 @@ export const galleryItems = [
   },
   {
     preview:
-      './ img / Aerial Beach View- preview.jpg',
+      './img/Aerial Beach View- preview.jpg',
     original:
       './img/Aerial Beach View-original.jpg',
     description: 'Aerial Beach View',
